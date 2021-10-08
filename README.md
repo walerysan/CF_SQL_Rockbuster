@@ -10,4 +10,6 @@ The repository contains:
 - entity relationship diagram
 - PostgreSQL queries
 - presentation of the results as PDF
-- presentation in Tableau
+- results of queries presented in Tableau
+
+[Top 10 countries by customers]https://public.tableau.com/app/profile/anna.walerys/viz/Top10countries-Task3_10forCF/Top10countriesbycustomers
