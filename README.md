@@ -16,7 +16,7 @@ The repository contains:
 
 [Total payments by country](https://public.tableau.com/app/profile/anna.walerys/viz/Rockbuster_Task3_10_totalpaymentbycountry/Totalpayments)
 
-[Top 10 cities by customers](https://public.tableau.com/app/profile/anna.walerys/viz/Rockbuster_Task3_10_Top10citiesbycustomer/Top10Cities)
+[Top 10 cities by top customers](https://public.tableau.com/app/profile/anna.walerys/viz/Rockbuster_Task3_10_Top10citiesbycustomer/Top10Cities)
 
 [Top 5 customers](https://public.tableau.com/app/profile/anna.walerys/viz/RockbusterTop5Customers_Task3_10/Top5Customers)
 
