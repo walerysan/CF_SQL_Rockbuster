@@ -7,5 +7,7 @@ The goal of the project is to acquire a good understanding of the various data p
 
 The repository contains:
 - data dictionary
-- Postgres SQL queries
-- presentation of the results
+- entity relationship diagram
+- PostgreSQL queries
+- presentation of the results as PDF
+- presentation in Tableau
