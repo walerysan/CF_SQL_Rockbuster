@@ -22,4 +22,3 @@ The repository contains:
 
 [Top 10 cities](https://public.tableau.com/app/profile/anna.walerys/viz/Top10Citiies-Task3_10froCF/Sheet1)
 
-[Top 10 countries by customers](https://public.tableau.com/app/profile/anna.walerys/viz/Task3_10forCF/country_top10_map)
