@@ -6,6 +6,6 @@ Rockbuster Stealth LLC is a fictive brick and mortar movie rental company with s
 The goal of the project is to acquire a good understanding of the various data points, summarize inventory and revenues of the store by using relational database management system.
 
 The repository contains:
-- SQL queries
 - data dictionary
+- SQL queries
 - presentation of the results
