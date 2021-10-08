@@ -6,11 +6,11 @@ Rockbuster Stealth LLC is a fictive brick and mortar movie rental company with s
 The goal of the project is to acquire a good understanding of the various data points, summarize inventory and revenues of the store by using relational database management system,a nd present insights.
 
 The repository contains:
-- data dictionary
-- entity relationship diagram
-- PostgreSQL queries
-- presentation of the results as PDF
-- results of queries presented in Tableau
+1. Data dictionary
+1. Entity relationship diagram
+1. Selected PostgreSQL queries
+1. Presentation of the results as PDF
+1. Results of queries presented in Tableau
 
 [Top 10 countries by customers](https://public.tableau.com/app/profile/anna.walerys/viz/Top10countries-Task3_10forCF/Top10countriesbycustomers)
 
