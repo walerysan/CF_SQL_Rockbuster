@@ -18,7 +18,7 @@ The repository contains:
 
 [Top 10 cities by top customers](https://public.tableau.com/app/profile/anna.walerys/viz/Rockbuster_Task3_10_Top10citiesbycustomer/Top10Cities)
 
-[Top 5 customers](https://public.tableau.com/app/profile/anna.walerys/viz/RockbusterTop5Customers_Task3_10/Top5Customers)
+[Top 5 customers by country](https://public.tableau.com/app/profile/anna.walerys/viz/RockbusterTop5Customers_Task3_10/Top5Customers)
 
 [Top 10 cities](https://public.tableau.com/app/profile/anna.walerys/viz/Top10Citiies-Task3_10froCF/Sheet1)
 
