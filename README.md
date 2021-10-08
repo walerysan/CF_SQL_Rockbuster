@@ -20,5 +20,4 @@ The repository contains:
 
 [Top 5 customers by country](https://public.tableau.com/app/profile/anna.walerys/viz/RockbusterTop5Customers_Task3_10/Top5Customers)
 
-[Top 10 cities](https://public.tableau.com/app/profile/anna.walerys/viz/Top10Citiies-Task3_10froCF/Sheet1)
 
