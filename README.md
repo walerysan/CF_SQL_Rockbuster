@@ -14,9 +14,9 @@ The repository contains:
 1. Presentation of insights in PowerPoint
 
 
-During this project, I learned the SQL concept from the very begining. The exercises walked me through many steps crucial for the analysis of data.
+During this project, I learned the SQL concept from the very begining. The exercises walked me through most important steps in the process of the data analysis.
 
-It was important to understand the relationships that exist in the Rockbuster database and get an overview of all the tables. The snowflake-type entity relationship diagram was exctracted using the DbVisualizer. The list of all the fact and dimension tables along with keys and column descriptions
+First, It was important to understand the relationships that exist in the Rockbuster database and get an overview of all the tables. The snowflake-type entity relationship diagram was exctracted using the DbVisualizer. The list of all the fact and dimension tables along with data types, keys and column descriptions were collected in the Data dictionary.
 
 
 [Top 10 countries by customers](https://public.tableau.com/app/profile/anna.walerys/viz/Top10countries-Task3_10forCF/Top10countriesbycustomers)
