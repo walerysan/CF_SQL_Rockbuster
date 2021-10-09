@@ -10,11 +10,13 @@ The repository contains:
 1. Data dictionary
 1. Entity relationship diagram
 1. Selected PostgreSQL queries
-1. Results of queries presented in Tableau
+1. Visualizations of queries results in Tableau
 1. Presentation of insights in PowerPoint
 
 
+During this project, I learned the SQL concept from the very begining. The exercises walked me through many steps crucial for the analysis of data.
 
+It was important to understand the relationships that exist in the Rockbuster database and get an overview of all the tables. The snowflake-type entity relationship diagram was exctracted using the DbVisualizer. The list of all the fact and dimension tables along with keys and column descriptions
 
 
 [Top 10 countries by customers](https://public.tableau.com/app/profile/anna.walerys/viz/Top10countries-Task3_10forCF/Top10countriesbycustomers)
