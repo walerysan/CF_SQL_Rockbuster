@@ -18,6 +18,8 @@ During this project, I learned the SQL concept from the very begining. The exerc
 
 First, It was important to understand the relationships that exist in the Rockbuster database and get an overview of all the tables. The snowflake-type entity relationship diagram was exctracted using the DbVisualizer. The list of all the fact and dimension tables along with data types, keys and column descriptions were collected in the Data dictionary.
 
+Then, by using the basic CRUD commands and writing simple queries for ordering, grouping or filtering data, the first business questions were answered. In the next steps, I learned command usefull in data cleaning process to find inconsitencies, missing values or duplicates. Then, SQL queries were used to calculate descrpitve statistics for selected tables.  
+
 
 [Top 10 countries by customers](https://public.tableau.com/app/profile/anna.walerys/viz/Top10countries-Task3_10forCF/Top10countriesbycustomers)
 
