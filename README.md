@@ -18,12 +18,12 @@ During this project, I learned the SQL concept from the very begining. The exerc
 
 First, it was important to understand the relationships that exist in the Rockbuster database and get an overview of all the tables. The **snowflake-type entity relationship diagram** was exctracted with DbVisualizer. The list of all the fact and dimension tables along with data types, keys and column descriptions were collected in the **data dictionary.**
 
-Then, by using the basic **CRUD** commands and writing simple queries for ordering, grouping or filtering data, the first business questions were answered. In the next steps, I learned commands for data cleaning process to find inconsitencies, missing values or duplicates. Then, SQL queries were used to calculate **descrpitve statistics** for selected columns. Finally, writing queries and **subqueries** combined with **joins** between tables using their common keys, I was able to find answers for more advanced business questions. Additionally, the same questions were answered using the concept of **CTE** to learn the advantages of common table expressions over subqueries in complex problems. 
+Then, by using the basic **CRUD** commands and writing simple queries for ordering, grouping or filtering data, the first business questions were answered. In the next steps, I learned commands for data cleaning process to find inconsitencies, missing values or duplicates. Then, SQL queries were used to calculate **descrpitve statistics** for selected columns. Finally, by writing queries and **subqueries** combined with **joins** between tables using their common keys, I was able to find answers for more advanced business questions. Additionally, the same questions were answered using the concept of **CTE** to learn the advantages of common table expressions over subqueries in complex problems. 
 
-Results of the key business questions are visualized in Tableau:
-[Top 10 countries by customers](https://public.tableau.com/app/profile/anna.walerys/viz/Top10countries-Task3_10forCF/Top10countriesbycustomers)
-[Total payments by country](https://public.tableau.com/app/profile/anna.walerys/viz/Rockbuster_Task3_10_totalpaymentbycountry/Totalpayments)
-[Top 10 cities by top customers](https://public.tableau.com/app/profile/anna.walerys/viz/Rockbuster_Task3_10_Top10citiesbycustomer/Top10Cities)
+Results of the key business questions visualized in Tableau:
+[Top 10 countries by customers](https://public.tableau.com/app/profile/anna.walerys/viz/Top10countries-Task3_10forCF/Top10countriesbycustomers)<br>
+[Total payments by country](https://public.tableau.com/app/profile/anna.walerys/viz/Rockbuster_Task3_10_totalpaymentbycountry/Totalpayments)<br>
+[Top 10 cities by top customers](https://public.tableau.com/app/profile/anna.walerys/viz/Rockbuster_Task3_10_Top10citiesbycustomer/Top10Cities)<br>
 [Top 5 customers by country](https://public.tableau.com/app/profile/anna.walerys/viz/RockbusterTop5Customers_Task3_10/Top5Customers)
 
 
